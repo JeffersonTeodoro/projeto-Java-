@@ -10,7 +10,7 @@ Permite cadastrar nomes de usuários e listar os cadastrados.
 ## javac Main.java
 2. Execute:
 
-##java Main
+## java Main
 
 ## Funcionalidades
 
